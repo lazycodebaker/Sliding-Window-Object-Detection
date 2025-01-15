@@ -50,4 +50,4 @@ cd Sliding-Window-Object-Detection
 
 
 ## Ouput Image
- ![Output with Detections](image.png)
+ ![Output with Detections](https://github.com/lazycodebaker/Sliding-Window-Object-Detection/blob/main/image.png)
